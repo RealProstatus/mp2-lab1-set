@@ -10,6 +10,8 @@
 //#define USE_SET // Использовать класс TSet,
                 // закоментировать, чтобы использовать битовое поле
 
+//ghbdtn
+
 #ifndef USE_SET // Использовать класс TBitField
 
 #include "tbitfield.h"
