@@ -18,11 +18,7 @@
 
 int main()
 {
-
-    TBitField tbf(95);
-    tbf.SetBit(3);
-    return 0;
-    /*
+    
   int n, m, k, count;
 
   setlocale(LC_ALL, "Russian");
@@ -56,7 +52,7 @@ int main()
     }
   cout << endl;
   cout << "В первых " << n << " числах " << count << " простых" << endl;
-  */
+  
 }
 #else
 
